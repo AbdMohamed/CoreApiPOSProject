@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "OURCart.Core/1.0.0": {
+        "dependencies": {
+          "OURCart.DataModel": "1.0.0"
+        },
+        "runtime": {
+          "OURCart.Core.dll": {}
+        }
+      },
+      "OURCart.DataModel/1.0.0": {
+        "runtime": {
+          "OURCart.DataModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OURCart.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OURCart.DataModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

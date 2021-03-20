@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OurCart/bin/Debug/netcoreapp2.2
+/OurCart/obj
+/OURClinic.core/bin/Debug/netcoreapp2.2
+/OURClinic.core/obj
+/OURClinic.DataModel/bin/Debug/netstandard2.0
+/OURClinic.DataModel/obj
+/OURClinic.Infrastructure/bin/Debug/netcoreapp2.2
+/OURClinic.Infrastructure/obj
+/.vs
